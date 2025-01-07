@@ -5,8 +5,9 @@
 ----
 - IDE:                     VSCode, Github
 ---- 
--  Languages programming:   Python, Java
--  Languages Computer:      HTML, CSS
+-  Programming Languages:   Python, Java
+-  Computer Languages:      HTML, CSS, SQL,
+-  Intrested in learning:   More of python, Lua, CSS, C++
 -  Real languages:          Norwegian, English
 ----
 Contact
