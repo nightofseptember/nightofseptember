@@ -12,7 +12,7 @@
 
 ---
 
-### 🇳🇴 Dette er den norske versjonen.
+### 🇳🇴 Dette er den norske versjonen. / This is the Norwegian version.
 For English, click here: [English version](README.en.md)
 
 ---

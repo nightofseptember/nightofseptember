@@ -12,7 +12,7 @@
 
 ---
 
-### 🇬🇧 This is the English version.
+### 🇬🇧 This is the English version. / This is the English version.
 For Norwegian, click here: [Norsk versjon](README.no.md)
 
 # ✨ Hi! I'm nightofseptember / August
