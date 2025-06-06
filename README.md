@@ -1,16 +1,24 @@
-## Hi there 👋
+<p align="center">
+  <b>
+    <a href="README.en.md">English</a>
+    &nbsp;|&nbsp;
+    <a href="README.no.md">Norsk</a>
+  </b>
+</p>
 
+<!-- Meta refresh for better compatibility (only works on GitHub web, not in all Markdown viewers) -->
 <!--
-**nightofseptember/nightofseptember** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<meta http-equiv="refresh" content="0; url=README.en.md">
 -->
+
+---
+
+### 🇬🇧 English  
+For English version click here: [English version](README.en.md)
+
+---
+
+### 🇳🇴 Norsk  
+For Norsk versjon klikk her: [Norsk versjon](README.no.md)
+
+
