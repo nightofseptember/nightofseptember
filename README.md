@@ -39,14 +39,3 @@
 <meta http-equiv="refresh" content="0; url=README.en.md">
 -->
 
----
-
-### 🇬🇧 English  
-For English version click here: [English version](README.en.md)
-
----
-
-### 🇳🇴 Norsk  
-For Norsk versjon klikk her: [Norsk versjon](README.no.md)
-
-
