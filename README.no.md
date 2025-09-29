@@ -18,14 +18,14 @@ For English, click here: [English version](README.en.md)
 ---
 
 
-# ✨ Hei! Jeg er nightofseptember / August
+# Hei! Jeg er August / nightofseptember
 
 Jeg er en student som er opptatt av teknologi og alltid ivrig etter å lære nye ting.  
 For tiden prøver jeg å lære **LUA**
 
 ---
 
-## 📌 Pinned/Showcase Prosjekter
+## Prosjekter jeg er stolt av
 
 - [PROSJEKT1](https://github.com/nightofseptember/project-repo) –  N/A KOMMER SNART
 - [PROJEKT2](https://github.com/nightofseptember/another-repo) – N/A KOMMER SNART
