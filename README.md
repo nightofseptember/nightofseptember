@@ -3,6 +3,29 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/307946781373759488)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=light">
+        <img alt="Top Langs">
+    </picture>
+</a>
+
 <p align="center">
   <b>
     <a href="README.en.md">English</a>
