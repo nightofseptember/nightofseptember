@@ -116,7 +116,7 @@ I'm a student passionate about technology and always eager to learn new things.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📌 Pinned/Showcase Projects
+## my highlighted projects
 
 - [Project Name](https://github.com/nightofseptember/project-repo) – N/A TO BE ADDED
 - [Another Project](https://github.com/nightofseptember/another-repo) – N/A TO BE ADDED
