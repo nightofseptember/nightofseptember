@@ -15,10 +15,9 @@
 ### 🇬🇧 This is the English version. / This is the English version.
 For Norwegian, click here: [Norsk versjon](README.no.md)
 
-# ✨ Hi! I'm nightofseptember / August
+# Hello, I'm nightofseptember
 
 I'm a student passionate about technology and always eager to learn new things.  
-Recently, I'm trying to learn **LUA**
 
 ---
 
