@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=nightofseptember)
 ![status](https://api.statusbadges.me/badge/status/307946781373759488?simple=true)
 ![vscode](https://api.statusbadges.me/badge/vscode/307946781373759488)
 
