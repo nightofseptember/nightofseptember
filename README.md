@@ -2,14 +2,7 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/307946781373759488)
 
 
-
-
-
 I code and make stuff.
-
-
-
-
 
 
 
@@ -24,10 +17,7 @@ I code and make stuff.
         <img alt="Top Langs">
     </picture>
 </a>
-
-
-
-larger readme.md
+     
 <p align="center">
   <b>
     <a href="README.en.md">English</a>
@@ -35,7 +25,9 @@ larger readme.md
     <a href="README.no.md">Norsk</a>
   </b>
 </p>
-
+<p align="center">
+  larger readme.md  /  Større readme.md 
+</p>
 <!-- Meta refresh for better compatibility (only works on GitHub web, not in all Markdown viewers) -->
 <!--
 <meta http-equiv="refresh" content="0; url=README.en.md">
