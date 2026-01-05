@@ -132,12 +132,4 @@ I'm a student passionate about technology and always eager to learn new things.
         <img alt="Top Langs">
     </picture>
 </a>
-
-<a href="https://git.io/streak-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nightofseptember&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=nightofseptember&theme=light">
-        <img alt="GitHub Streak">
-    </picture>
-</a>
 ---
