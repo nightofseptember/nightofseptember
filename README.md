@@ -14,7 +14,6 @@ I code and make stuff.
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=light">
-        <img alt="Top Langs">
     </picture>
 </a>
      
@@ -26,5 +25,5 @@ I code and make stuff.
   </b>
 </p>
 <p align="center">
-  larger readme.md  /  Større readme.md 
+  readme.md with more info
 </p>
