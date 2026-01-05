@@ -28,8 +28,3 @@ I code and make stuff.
 <p align="center">
   larger readme.md  /  Større readme.md 
 </p>
-<!-- Meta refresh for better compatibility (only works on GitHub web, not in all Markdown viewers) -->
-<!--
-<meta http-equiv="refresh" content="0; url=README.en.md">
--->
-
