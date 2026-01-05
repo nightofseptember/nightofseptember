@@ -24,16 +24,6 @@ Jeg er en student som er opptatt av teknologi og alltid ivrig etter å lære nye
 For tiden prøver jeg å lære **LUA**
 
 ---
-
-## Prosjekter jeg er stolt av
-
-- [PROSJEKT1](https://github.com/nightofseptember/project-repo) –  N/A KOMMER SNART
-- [PROJEKT2](https://github.com/nightofseptember/another-repo) – N/A KOMMER SNART
-
-## Slik kan du kontakte meg
-[GitHub](https://github.com/nightofseptember)  
-[Nettside](#) [N/A SKAL KOMME SNART]
-
 ### Mine ferdigheter
 <!-- Python Logo -->
 <a href="https://www.python.org/" title="Python" style="margin: 4px;"> 
@@ -123,19 +113,16 @@ For tiden prøver jeg å lære **LUA**
     <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=light" alt="GitHub ikon" height="40">
   </picture>
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=light">
-        <img alt="Top Langs">
-    </picture>
-</a>
 
-<a href="https://git.io/streak-stats">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nightofseptember&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=nightofseptember&theme=light">
-        <img alt="GitHub Streak">
-    </picture>
-</a>
+## Prosjekter jeg er stolt av
+
+- [PROSJEKT1](https://github.com/nightofseptember/project-repo) –  N/A KOMMER SNART
+- [PROJEKT2](https://github.com/nightofseptember/another-repo) – N/A KOMMER SNART
+
+## Slik kan du kontakte meg
+
+[GitHub](https://github.com/nightofseptember)  
+[Nettside](#) [N/A SKAL KOMME SNART]
+
+
 ---
