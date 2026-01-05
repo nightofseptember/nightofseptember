@@ -123,13 +123,4 @@ I'm a student passionate about technology and always eager to learn new things.
 ## Ways to reach me 
 [GitHub](https://github.com/nightofseptember)  
 [Website](#) <!-- to be added --> [N/A TO BE ADDED]
-
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=dark">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nightofseptember&layout=compact&theme=light">
-        <img alt="Top Langs">
-    </picture>
-</a>
 ---
